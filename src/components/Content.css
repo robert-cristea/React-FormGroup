@@ -1,0 +1,31 @@
+label {
+    font-weight: 600;;
+}
+
+select[name="aws"] {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	background: transparent;
+	background-image: url(../icons/expandArrow.png);
+	background-repeat: no-repeat;
+	background-position-x: 99%;
+	background-position-y: 50%;
+	/* padding-left:50px; */
+}
+
+.sub-label {
+    font-size: 0.9rem!important;
+}
+
+.sub-sub-label {
+    font-size: 0.85rem!important;
+    font-weight:600;
+    margin-left: -10px;
+}
+
+p#policy-label {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-left: -10px;
+    text-decoration: underline; 
+}

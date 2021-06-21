@@ -1,0 +1,27 @@
+a, a:hover {
+    text-decoration:none !important;
+    color: black!important;
+}
+
+ul li a, ul li span {
+    color:black;
+}
+
+ul {
+    list-style:none;
+}
+
+.category {
+    font-weight:1000;
+    margin-left:10px;
+}
+
+.subCategoryGroup {
+    padding-bottom:30px;
+    padding-left:25px;
+}
+
+.subCategoryGroup div {
+    padding-top: 10px;
+    font-size: 0.9rem;
+}
