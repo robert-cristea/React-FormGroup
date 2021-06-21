@@ -8,7 +8,7 @@ This app involves side navbar made from scratch and several inputs with validati
 
 ## Alpha Interface
 
-![Interface](https://github.com/vietvulong/React-FormGroup/blob/main/screenshots/form.png)
+![Interface](https://github.com/vietvulong/React-FormGroup/blob/main/screenshot/form.png)
 
 ## Frontend development workflow
 
